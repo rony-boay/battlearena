@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559731371967",
+    "project_id": "dashboardflutterflow1",
+    "storage_bucket": "dashboardflutterflow1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559731371967:android:742eb78aa6dcbd28183b0a",
+        "android_client_info": {
+          "package_name": "com.example.battlearena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559731371967-7q9hrduie80dafk5bhdnk7dgrfraobmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9K4opMrKQxQ1aJ02cAUPm5PqhYOEGP8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559731371967-7q9hrduie80dafk5bhdnk7dgrfraobmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
